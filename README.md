@@ -1,6 +1,7 @@
 # Chat by Vue + Webpack
 
-[Live demo](http://coffcer.github.io/vue-chat/)
+前端界面使用了Coffcer的项目
+项目地址：https://github.com/coffcer/vue-chat
 
 <img width="600" src="https://github.com/Coffcer/vue-chat/blob/master/intro.jpg">
 
